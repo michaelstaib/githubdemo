@@ -1,0 +1,3 @@
+extend scalar URI 
+    @runtimeType(name: "System.String")
+    @serializationType(name: "System.String")
